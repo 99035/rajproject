@@ -9,8 +9,13 @@
 <h1>Hello world!</h1>
 <p>This is the first file in my new Git Repo.</p>
 <p>This is the first file in my new Git Repo. 2</p>
+<<<<<<< HEAD
 <h1>This is the first file in my new Git Repo. 2</h1>
 <h2>This is the first file in my new Git Repo. 2</h2> 
+<h3>This is the first file in my new Git Repo. 2</h3> 
+=======
+ <p>This is the first file in my new Git Repo. 2</p>
+>>>>>>> 8fa29d49323ff3abdedc353ccbe5123b0b0f87cb
 
 </body>
 </html> 
